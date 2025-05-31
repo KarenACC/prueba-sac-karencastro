@@ -1,3 +1,37 @@
+# Rick and Morty App
+
+## Descripción
+Esta app consume la API pública de Rick and Morty para mostrar la lista de personajes, permitiendo:
+
+- Buscar personajes por nombre.
+- Navegar entre páginas de resultados.
+- Ver detalles de cada personaje en una página dedicada.
+
+API oficial Rick y Morty: https://rickandmortyapi.com
+
+## Instalación
+
+1. Clonar el repositorio
+   https://github.com/KarenACC/prueba-sac-karencastro.git
+
+2. Instalar dependencias
+   npm install
+   o
+   yarn 
+
+## Ejecución
+1. Ejecutar en modo desarrollo 
+   npm run dev
+   o
+   yarn dev
+
+2. Abrir http://localhost:5173 para ver la app.
+
+## Testing
+Las pruebas están ubicadas en la carpeta src/tests.
+
+Para ejecutar las pruebas, usa:
+   npm run test
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
